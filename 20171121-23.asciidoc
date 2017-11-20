@@ -16,7 +16,8 @@
 == 旅行概要
 
 . *スローガン*
-    * 2人で楽しい思い出を作る
+    * [line-through]#2人で楽しい思い出を作る#
+    * ハセー・ポッターと謎のプリンス
 
 . *ミッション*
     * 当事者意識を持ち、思い思いに取り組む
@@ -54,6 +55,8 @@ ex) 時計の秒針が一秒以上止まっているように見える
 |住所|山形県山形市蔵王温泉４６
 |電話|023-694-2112
 |チェックイン/チェックアウト|14:00/10:00
+|リンク
+|http://www.oomiyaryokan.jp/[おおみや旅館]
 |====
 
 .アメニティ
@@ -75,7 +78,7 @@ WARNING: 喫煙所は外；；
 [cols="1,3a"]
 |====
 |出発場所(返却場所)
-|山形駅前店
+|https://rent.toyota.co.jp/shop/detail.aspx?rCode=62501&ShopSerch=625&eCode=007&udFlg=2&sFlg=3&SGBSerch=06&strHSerch=[山形駅前店]
 
 * 住所:山形県山形市香澄町３－１－１
 * ℡:023-625-0100
@@ -121,7 +124,9 @@ WARNING: 喫煙所は外；；
 * [ ] ETCカード
 * [ ] 鳩サブレー
 * [ ] ニット帽
-* [ ] Bose soundmini
+* [ ] Bose SoundMini
+* [ ] 新幹線のチケット
+* [ ] ゴムゴムの実
 
 <<<
 
@@ -132,6 +137,7 @@ WARNING: 喫煙所は外；；
 image::https://t.pimg.jp/013/340/472/1/13340472.jpg[]
 
 === 高畠ワイナリー
+http://www.takahata-winery.jp/index.asp[高畠ワイナリー]
 
 image::http://www.bsfuji.tv/tatsumi_olds/grape/no3_img/main_img.jpg[]
 image::http://mihoko_ogasawara.c.blog.so-net.ne.jp/_images/blog/_457/Mihoko_Ogasawara/E9AB98E795A0E383AFE382A4E3838AE383AAE383BCEFBC92-9e612.JPG[]
@@ -149,10 +155,14 @@ CAUTION: 積雪次第
 == 食べたい
 
 === よってけポポラ
+https://tabelog.com/yamagata/A0605/A060501/6004408/[よってけぽぽら]
+
 .ジェラート
 image::https://tblg.k-img.com/restaurant/images/Rvw/52448/52448987.jpg[]
 
 === 楓庵
+https://tabelog.com/yamagata/A0601/A060101/6000006/[楓庵]
+
 .山形の焼肉たべログ4位！！
 image::https://tblg.k-img.com/restaurant/images/Rvw/52208/640x640_rect_52208827.jpg[]
 CAUTION: 要予約 +
@@ -161,5 +171,5 @@ CAUTION: 要予約 +
 
 * すきやきは米沢がいいね
 
-WARNING: もう調べるの力尽きた
+NOTE: もう調べるの力尽きた:poop:
 
