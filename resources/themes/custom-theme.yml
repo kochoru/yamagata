@@ -1,0 +1,37 @@
+font: 
+  catalog: 
+    Noto Serif: 
+      normal: NotoSerif-Regular.ttf
+      bold: NotoSerif-Bold.ttf
+      italic: NotoSerif-Italic.ttf
+      bold_italic: NotoSerif-BoldItalic.ttf
+
+base:
+  font_famiry: Noto Serif
+
+title_page:
+  align: left
+  title:                                     # タイトル
+    top: 45%                                 # <-- 紙面上部から45%の位置にタイトルを置く
+    font_size: $heading_h1_font_size         # <-- 見出しレベル1
+    font_stye: bold                          # <-- 太字
+    font_color: [122,30,28]                  # <-- 見出しフォント（強調色）
+    line_height: 0.9
+  subtitle:                                  # サブタイトル
+    font_size: $heading_h3_font_size　　　　　# <-- 見出しレベル3相当のフォントサイズ
+    font_style: bold                         # <-- 太字
+    font_color: [122,30,28]                  # <-- 見出しフォント（強調色）
+    line_height: 1
+
+footer:
+  font_size: $base_font_size_small
+  font_color: $base_font_color
+  border_color: dddddd
+  border_width: 0.25
+  height: 25mm
+  padding: [3mm,0,0,0]
+  valign: top
+  recto_content:
+    center: '{page-number} / {page-count}'
+  verso_content:
+    center: '{page-number} / {page-count}'

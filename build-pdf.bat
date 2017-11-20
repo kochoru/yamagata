@@ -1,0 +1,1 @@
+asciidoctor-pdf -o dist/build.pdf -r asciidoctor-pdf-cjk ./20171121-23.asciidoc
